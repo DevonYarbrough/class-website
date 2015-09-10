@@ -16,7 +16,7 @@
   <!-- Linking to header file -->
   <?php include 'header.html'; ?>
 
-  <main>
+  <main role ="main">
     <section>
       <article class="col-md-8">
         <h1>Privacy Policy</h1>
