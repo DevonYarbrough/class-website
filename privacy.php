@@ -9,7 +9,7 @@
 
   <title>A Model's Guide</title>
   <!-- Linking Bootstrap file-->
-  <link href="css/bootstrap.css" rel="stylesheet">
+  <link href="css/main.css" rel="stylesheet">
 </head>
 
 <body class ="container-fluid">

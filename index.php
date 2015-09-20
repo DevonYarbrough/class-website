@@ -20,7 +20,7 @@ but for now I'll just add them individually for each page
 
   <title>A Model's Guide</title>
   <!-- Linking Bootstrap file, but css(mostly) hasn't been coded yet-->
-  <link href="css/bootstrap.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
   <!-- Adding Kepley for headings and Azo Sans for body from TypeKit-->
   <script src="https://use.typekit.net/iib8zqj.js"></script>
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
